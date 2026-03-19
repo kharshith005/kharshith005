@@ -24,8 +24,8 @@ Software Engineer with 3+ years of experience building automation tools, improvi
 ## 🧰 Tech Stack
 **Languages:** Python • Java • SQL • C/C++ • JavaScript/TypeScript • R  
 **Cloud/DevOps:** AWS • GCP • Docker • Kubernetes • Terraform • CI/CD • Git • Splunk  
-**Databases:** MySQL • PostgreSQL • MongoDB • AWS RDS  
-**ML/Data:** NumPy • Pandas • scikit-learn • TensorFlow • Keras • PyTorch • OpenCV • Tableau • Grafana  
+**Databases:** MySQL • PostgreSQL • MongoDB
+**ML/Data:** NumPy • Pandas • Scikit-learn • TensorFlow • Keras • PyTorch • OpenCV • Tableau  
 **Web:** Flask • Django • REST APIs • Vue.js • Node.js • React • Next.js • Tailwind CSS
 
 ---
